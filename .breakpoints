@@ -1,0 +1,20 @@
+{
+  "files": {
+    "index.js": [
+      {
+        "id": "f5db488e-6941-4dc4-9cc3-ba5c98c52489",
+        "line": 22,
+        "version": 107,
+        "index": 524
+      }
+    ],
+    "views/layouts/main.hbs": [
+      {
+        "id": "d9ebfbcf-3654-4102-9cd0-ddec702e01ec",
+        "line": 10,
+        "version": 744,
+        "index": 442
+      }
+    ]
+  }
+}
